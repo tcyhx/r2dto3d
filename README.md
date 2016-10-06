@@ -24,4 +24,9 @@ imglbls   : user labelled image
 mask      : mask image where 1 denotes marked regions and 0 denotes unmarked regions.
 strokes   : sparse depth map extracting from the user labelled image
 
+[1] R. Phan and D. Androutsos, ”Robust semi-automatic depth map generation in unconstrained images and video sequences for 2D to stereoscopic 3D conversion,” IEEE Trans. Multimedia, vol. 16, no. 1, pp. 122-136, Jan. 2014.
+[2] H. Yuan, S. Wu, P. Cheng, P. An and S. Bao, ”Nonlocal random walks algorithm for semi-automatic 2D-to-3D image conversion,” IEEE Signal Proc. Let., vol. 22, no. 3, pp. 371-374, Mar. 2015.
+[3] R. Rzeszutek, R. Phan, and D. Androutsos, ”Semi-automatic synthetic depth map generation for video using random walks,” in Proc. IEEE Intl. Conf. on Multimedia and Expo (ICME), 2011, pp. 1-6.
+[4] B. Ham, M. Cho, and J. Ponce, ”Robust image filtering using joint static and dynamic guidance,” in Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 4823-4831.
+
 Any question, please contact: yuanhx@mail.ustc.edu.cn
