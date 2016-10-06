@@ -18,6 +18,7 @@ cones    : experimental results of Cones when user input is accurate.
 cones_err: experimental results of Cones when errorneous input is present.
 
 In each folder,
+
 depth_gc  : estimated depth of graph-cuts [1].
 
 depth_NRW : estimated depth of nonlocal random-walkers [2].
